@@ -1,0 +1,54 @@
+
+
+h1 {color: cornflowerblue;
+     background-color: darkgrey;
+
+     font-family: Times New Roman;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 84.69%;
+}
+
+.en-mayuscula {
+    text-transform: uppercase;
+}
+
+
+
+
+
+h2 {
+
+
+    
+font-family: Times New Roman;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 84.69%;
+    color: cornflowerblue;
+    background-color: darkgrey;
+}
+
+
+
+
+
+
+p {
+
+font-family: Times New Roman;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 84.69%;
+color: #FFFFFF;
+background: #005677;
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 987px;
+
+}
